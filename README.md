@@ -1,2 +1,2 @@
 # Finance-Projects
-This is to analyse statistical or econometrics concept on Finance topics or Stocks particularly.
+This is to analyse statistical, econometrics & time Series concepts on Finance topics, particularly Stocks.
